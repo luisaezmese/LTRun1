@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bienvenida"
+    android:orientation="vertical"
+    tools:context="com.example.luisangel.ltrun.ContenidoFragment">
+
+
+    <!-- Corresponde con el Fragment Dinamico donde se ha añadido un mensaje de BIENVENIDA-->
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.46"
+        android:gravity="fill_vertical|center_horizontal"
+        android:text="VIVIR PARA CORRER O CORRER PARA VIVIR"
+        android:textColor="@android:color/white"
+        android:textSize="40sp"/>
+
+</LinearLayout>

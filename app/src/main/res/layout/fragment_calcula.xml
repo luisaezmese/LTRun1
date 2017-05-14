@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.luisangel.ltrun.CalculaFragment"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:text="Distancia (metros)"
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewDistancia" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editTextDistancia" />
+
+    <TextView
+        android:text="Tiempo (hh:mm:ss)"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewTiempo" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:ems="10"
+        android:id="@+id/editTextTiempo" />
+
+    <TextView
+        android:text="Ritmo (min/km)"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewMarca" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textViewMarca2" />
+
+    <Button
+        android:text="CALCULAR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonCalcular" />
+
+</LinearLayout>

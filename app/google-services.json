@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "382249153192",
+    "firebase_url": "https://ltrun-99027.firebaseio.com",
+    "project_id": "ltrun-99027",
+    "storage_bucket": "ltrun-99027.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382249153192:android:234b5b8398ecb851",
+        "android_client_info": {
+          "package_name": "com.example.luisangel.ltrun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382249153192-e0udrhnu86tsbmg0t25lba7ib6pb2mi2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.luisangel.ltrun",
+            "certificate_hash": "c9b49c2149db1b50869bd6ff1e25b0833e982f77"
+          }
+        },
+        {
+          "client_id": "382249153192-v3pkcp0s4pslbn20t2fqp6dsba3iiron.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgxxH2C3ejwBhOOPVw8XEY5vjTJcwiFV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382249153192-v3pkcp0s4pslbn20t2fqp6dsba3iiron.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
